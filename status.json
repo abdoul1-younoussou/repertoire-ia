@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-11-22T12:37:52.800162+00:00",
+  "checked_at": "2026-11-22T20:40:34.861965+00:00",
   "frequency": "weekly",
   "total": 287,
   "counts": {
-    "ok": 232,
-    "redirect": 33,
+    "ok": 250,
+    "redirect": 15,
     "broken": 21,
     "unknown": 1
   },
-  "auto_updates": 18,
+  "auto_updates": 0,
   "results": [
     {
       "url": "https://chat.mistral.ai/",
@@ -64,13 +64,13 @@
       "safe_update": false
     },
     {
-      "url": "https://qwen.readthedocs.io/",
-      "status": "redirect",
+      "url": "https://qwen.readthedocs.io/en/latest/",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://qwen.readthedocs.io/en/latest/",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Qwen+Chat+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -162,13 +162,13 @@
       "safe_update": false
     },
     {
-      "url": "https://support.google.com/notebooklm/",
-      "status": "redirect",
+      "url": "https://support.google.com/gemininotebook/",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://support.google.com/gemininotebook/",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Gemini+Notebook+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -231,13 +231,13 @@
       "auto_updated": false
     },
     {
-      "url": "https://help.gamma.app/",
-      "status": "redirect",
+      "url": "https://help.gamma.app/en/",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://help.gamma.app/en/",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Gamma+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -257,13 +257,13 @@
       "auto_updated": false
     },
     {
-      "url": "https://help.openai.com/",
-      "status": "redirect",
+      "url": "https://help.openai.com/en",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://help.openai.com/en",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Sora+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -355,13 +355,13 @@
       "safe_update": false
     },
     {
-      "url": "https://docs.cline.bot/",
-      "status": "redirect",
+      "url": "https://docs.cline.bot/cline-overview",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://docs.cline.bot/cline-overview",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Cline+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -430,7 +430,7 @@
       "url": "https://console.mistral.ai/",
       "status": "redirect",
       "http_code": 200,
-      "final_url": "https://v2.auth.mistral.ai/login?flow=b0f26ab9-50af-433e-b4a1-929d92cd40fc&return_to=https%3A%2F%2Fconsole.mistral.ai%2F",
+      "final_url": "https://v2.auth.mistral.ai/login?flow=d9c1d106-206d-462c-80b1-2c4bdb59cb32&return_to=https%3A%2F%2Fconsole.mistral.ai%2F",
       "message": "Redirection détectée",
       "auto_updated": false,
       "safe_update": false
@@ -470,22 +470,22 @@
       "safe_update": false
     },
     {
-      "url": "https://console.groq.com/",
-      "status": "redirect",
+      "url": "https://console.groq.com/home",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://console.groq.com/home",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
-      "url": "https://console.groq.com/docs/",
-      "status": "redirect",
+      "url": "https://console.groq.com/docs/overview",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://console.groq.com/docs/overview",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=GroqCloud+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -595,13 +595,13 @@
       "safe_update": false
     },
     {
-      "url": "https://aistudio.google.com/",
-      "status": "redirect",
+      "url": "https://aistudio.google.com/welcome",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://aistudio.google.com/welcome",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Google+AI+Studio+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -648,13 +648,13 @@
       "safe_update": false
     },
     {
-      "url": "https://replit.com/ai",
-      "status": "redirect",
+      "url": "https://replit.com/products/agent",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://replit.com/products/agent",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Replit+Agent+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -738,13 +738,13 @@
       "safe_update": false
     },
     {
-      "url": "https://www.cursor.com/",
-      "status": "redirect",
+      "url": "https://cursor.com/",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://cursor.com/",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Cursor+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -1250,13 +1250,13 @@
       "safe_update": false
     },
     {
-      "url": "https://www.deepl.com/write",
-      "status": "redirect",
+      "url": "https://www.deepl.com/en/write",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://www.deepl.com/en/write",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=DeepL+Write+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -1268,13 +1268,13 @@
       "safe_update": false
     },
     {
-      "url": "https://www.deepl.com/translator",
-      "status": "redirect",
+      "url": "https://www.deepl.com/en/translator",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://www.deepl.com/en/translator",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=DeepL+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -1349,13 +1349,13 @@
       "safe_update": false
     },
     {
-      "url": "https://cloud.google.com/dialogflow",
-      "status": "redirect",
+      "url": "https://cloud.google.com/gemini-enterprise-cx/cx-agent-studio",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://cloud.google.com/gemini-enterprise-cx/cx-agent-studio",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Dialogflow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -1385,13 +1385,13 @@
       "safe_update": false
     },
     {
-      "url": "https://www.crewai.com/",
-      "status": "redirect",
+      "url": "https://crewai.com/",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://crewai.com/",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=CrewAI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -1669,13 +1669,13 @@
       "safe_update": false
     },
     {
-      "url": "https://elevenlabs.io/docs",
-      "status": "redirect",
+      "url": "https://elevenlabs.io/docs/overview/intro",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://elevenlabs.io/docs/overview/intro",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://murf.ai/",
@@ -1696,13 +1696,13 @@
       "safe_update": false
     },
     {
-      "url": "https://openai.com/research/whisper",
-      "status": "redirect",
+      "url": "https://openai.com/index/whisper/",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://openai.com/index/whisper/",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Whisper+%28OpenAI%29+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -1732,13 +1732,13 @@
       "safe_update": false
     },
     {
-      "url": "https://www.notta.ai/",
-      "status": "redirect",
+      "url": "https://www.notta.ai/en/",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://www.notta.ai/en/",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Notta+tutoriel+formation+prise+en+main+fran%C3%A7ais",
@@ -2242,13 +2242,13 @@
       "safe_update": false
     },
     {
-      "url": "https://www.google.com/travel/",
-      "status": "redirect",
+      "url": "https://www.google.com/travel/unsupported?ucpp=Ch5odHRwczovL3d3dy5nb29nbGUuY29tL3RyYXZlbC8",
+      "status": "ok",
       "http_code": 200,
       "final_url": "https://www.google.com/travel/unsupported?ucpp=Ch5odHRwczovL3d3dy5nb29nbGUuY29tL3RyYXZlbC8",
-      "message": "Redirection détectée",
-      "auto_updated": true,
-      "safe_update": true
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
     },
     {
       "url": "https://www.youtube.com/results?search_query=Google+Travel+tutoriel+formation+prise+en+main+fran%C3%A7ais",
