@@ -1,0 +1,2576 @@
+{
+  "checked_at": "2026-11-22T12:37:52.800162+00:00",
+  "frequency": "weekly",
+  "total": 287,
+  "counts": {
+    "ok": 232,
+    "redirect": 33,
+    "broken": 21,
+    "unknown": 1
+  },
+  "auto_updates": 18,
+  "results": [
+    {
+      "url": "https://chat.mistral.ai/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://chat.mistral.ai/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://docs.mistral.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://docs.mistral.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Mistral+Le+Chat+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Mistral+Le+Chat+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.deepseek.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.deepseek.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=DeepSeek+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=DeepSeek+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://chat.qwen.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://chat.qwen.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://qwen.readthedocs.io/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://qwen.readthedocs.io/en/latest/",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Qwen+Chat+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Qwen+Chat+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://grok.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://grok.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://help.x.com/en/using-x/about-grok",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://help.x.com/en/using-x/about-grok",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Grok+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Grok+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.kimi.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.kimi.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Kimi+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Kimi+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://duck.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://duck.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://duckduckgo.com/duckai",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://duck.ai/chat",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Duck.ai+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Duck.ai+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://notebooklm.google.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://notebook.google.com/",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://support.google.com/notebooklm/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://support.google.com/gemininotebook/",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Gemini+Notebook+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Gemini+Notebook+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.granola.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.granola.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Granola+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Granola+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.perplexity.ai/comet",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.perplexity.ai/comet",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.perplexity.ai/help-center",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.perplexity.ai/help-center",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Comet+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Comet+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://gamma.app/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://gamma.app/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://help.gamma.app/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://help.gamma.app/en/",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Gamma+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Gamma+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://sora.com/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://sora.com/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://help.openai.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://help.openai.com/en",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Sora+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Sora+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://podcast.adobe.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://podcast.adobe.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://helpx.adobe.com/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://helpx.adobe.com/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Adobe+Podcast+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Adobe+Podcast+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://wisprflow.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://wisprflow.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Wispr+Flow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Wispr+Flow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://openclaw.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://openclaw.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://docs.openclaw.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://docs.openclaw.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=OpenClaw+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=OpenClaw+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://cline.bot/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://cline.bot/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://docs.cline.bot/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://docs.cline.bot/cline-overview",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Cline+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Cline+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://aider.chat/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://aider.chat/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://aider.chat/docs/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://aider.chat/docs/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Aider+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Aider+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://aws.amazon.com/q/developer/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://aws.amazon.com/q/developer/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Amazon+Q+Developer+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Amazon+Q+Developer+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://console.mistral.ai/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://v2.auth.mistral.ai/login?flow=b0f26ab9-50af-433e-b4a1-929d92cd40fc&return_to=https%3A%2F%2Fconsole.mistral.ai%2F",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Mistral+AI+Studio+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Mistral+AI+Studio+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://platform.deepseek.com/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://platform.deepseek.com/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://platform.deepseek.com/api-docs/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://platform.deepseek.com/api-docs/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=DeepSeek+API+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=DeepSeek+API+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://console.groq.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://console.groq.com/home",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://console.groq.com/docs/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://console.groq.com/docs/overview",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=GroqCloud+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=GroqCloud+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://platform.openai.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://platform.openai.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://academy.openai.com/fr",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://academy.openai.com/fr",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=OpenAI+API+Platform+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=OpenAI+API+Platform+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://manus.im/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://manus.im/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://learn.scenario.com/browse",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://learn.scenario.com/browse",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Manus+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Manus+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.genspark.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.genspark.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Genspark+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Genspark+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.perplexity.ai/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.perplexity.ai/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Perplexity+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Perplexity+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=NotebookLM+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=NotebookLM+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://aistudio.google.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://aistudio.google.com/welcome",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+AI+Studio+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+AI+Studio+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://lovable.dev/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://lovable.dev/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Lovable+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Lovable+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://bolt.new/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://bolt.new/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Bolt.new+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Bolt.new+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://replit.com/ai",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://replit.com/products/agent",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Replit+Agent+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Replit+Agent+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://v0.dev/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://v0.app/",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=v0+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=v0+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.framer.com/ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.framer.com/ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Framer+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Framer+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.anthropic.com/claude-code",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://claude.com/product/claude-code",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qefrfyxQOEY",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/watch?v=qefrfyxQOEY",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://openai.com/codex/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://openai.com/codex/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=OpenAI+Codex+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=OpenAI+Codex+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.cursor.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://cursor.com/",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Cursor+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Cursor+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://windsurf.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://devin.ai/desktop",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Windsurf+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Windsurf+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://github.com/features/copilot",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://github.com/features/copilot",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=GitHub+Copilot+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=GitHub+Copilot+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://ideogram.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://ideogram.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Ideogram+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Ideogram+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.recraft.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.recraft.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Recraft+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Recraft+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.krea.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.krea.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Krea+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Krea+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.napkin.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.napkin.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Napkin+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Napkin+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://klingai.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://kling.ai/",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Kling+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Kling+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://runwayml.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://runway.com/",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Runway+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Runway+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://deepmind.google/models/veo/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://deepmind.google/models/veo/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+Veo+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+Veo+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.heygen.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.heygen.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=HeyGen+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=HeyGen+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://lumalabs.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://lumalabs.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Luma+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Luma+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://elevenlabs.io/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://elevenlabs.io/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=ElevenLabs+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=ElevenLabs+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://suno.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://suno.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Suno+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Suno+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.udio.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.udio.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Udio+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Udio+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.descript.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.descript.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Descript+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Descript+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://n8n.io/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://n8n.io/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uBZOu8Z8dvw",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/watch?v=uBZOu8Z8dvw",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.make.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.make.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rPjg9vg4j_c",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/watch?v=rPjg9vg4j_c",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://zapier.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://zapier.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://dify.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://dify.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Dify+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Dify+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://getanaiforthat.com/new/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://getanaiforthat.com/new/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Get+an+AI+for+That+%E2%80%93+nouveaut%C3%A9s+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Get+an+AI+for+That+%E2%80%93+nouveaut%C3%A9s+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://aitoolindex.org/whats-new/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://aitoolindex.org/whats-new/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=AI+Tool+Index+%E2%80%93+nouveaut%C3%A9s+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=AI+Tool+Index+%E2%80%93+nouveaut%C3%A9s+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://chatgpt.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://chatgpt.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://learn.chatgpt.com/learn",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://learn.chatgpt.com/learn",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=ChatGPT+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=ChatGPT+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://claude.ai/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://claude.ai/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://gemini.google.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://gemini.google.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Gemini+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Gemini+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://copilot.microsoft.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://copilot.com/",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Microsoft+Copilot+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Microsoft+Copilot+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://ai.google/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://ai.google/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.notion.so/product/ai",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://www.notion.com/product/ai",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Notion+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Notion+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.grammarly.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.grammarly.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Grammarly+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Grammarly+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.deepl.com/write",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://www.deepl.com/en/write",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=DeepL+Write+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=DeepL+Write+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.deepl.com/translator",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://www.deepl.com/en/translator",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=DeepL+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=DeepL+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://translate.google.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://translate.google.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+Traduction+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+Traduction+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://docs.n8n.io/courses/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://learn.n8n.io",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://botpress.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://botpress.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Botpress+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Botpress+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.voiceflow.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.voiceflow.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Voiceflow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Voiceflow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://cloud.google.com/dialogflow",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://cloud.google.com/gemini-enterprise-cx/cx-agent-studio",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Dialogflow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Dialogflow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.langchain.com/langgraph",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.langchain.com/langgraph",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=LangGraph+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=LangGraph+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.crewai.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://crewai.com/",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=CrewAI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=CrewAI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.capcut.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.capcut.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://academy.runwayml.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://academy.runwayml.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=CapCut+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=CapCut+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://pika.art/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://pika.art/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Pika+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Pika+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.semrush.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.semrush.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Semrush+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Semrush+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://ahrefs.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://ahrefs.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Ahrefs+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Ahrefs+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://neilpatel.com/ubersuggest/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://ubersuggest.com/en",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Ubersuggest+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Ubersuggest+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/prompting",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://developers.openai.com/api/docs/guides/prompting",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Guide+de+prompting+OpenAI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Guide+de+prompting+OpenAI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://prompthero.com/",
+      "status": "unknown",
+      "http_code": null,
+      "final_url": null,
+      "message": "HTTPSConnectionPool(host='prompthero.com', port=443): Read timed out. (read timeout=18)",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=PromptHero+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=PromptHero+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=ChatGPT+Images+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=ChatGPT+Images+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.midjourney.com/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.midjourney.com/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Midjourney+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Midjourney+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://firefly.adobe.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://firefly.adobe.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Adobe+Firefly+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Adobe+Firefly+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.canva.com/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.canva.com/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Canva+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Canva+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.adobe.com/express/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.adobe.com/express/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Adobe+Express+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Adobe+Express+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.meshy.ai/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.meshy.ai/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Meshy+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Meshy+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.tripo3d.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.tripo3d.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Tripo+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Tripo+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.langchain.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.langchain.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=LangChain+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=LangChain+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://elevenlabs.io/docs",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://elevenlabs.io/docs/overview/intro",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://murf.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://murf.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Murf+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Murf+AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://openai.com/research/whisper",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://openai.com/index/whisper/",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Whisper+%28OpenAI%29+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Whisper+%28OpenAI%29+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://otter.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://otter.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Otter.ai+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Otter.ai+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.notta.ai/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://www.notta.ai/en/",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Notta+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Notta+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.deeplearning.ai/courses/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.deeplearning.ai/courses/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://buffer.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://buffer.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Buffer+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Buffer+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://metricool.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://metricool.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Metricool+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Metricool+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.shopify.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.shopify.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Shopify+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Shopify+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://woocommerce.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://woocommerce.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=WooCommerce+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=WooCommerce+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.intercom.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.intercom.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Intercom+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Intercom+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.tidio.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.tidio.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Tidio+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Tidio+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.upwork.com/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.upwork.com/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Upwork+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Upwork+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.freelancer.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.freelancer.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Freelancer+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Freelancer+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://colab.research.google.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://colab.research.google.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+Colab+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+Colab+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.kaggle.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.kaggle.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Kaggle+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Kaggle+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://consensus.app/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://consensus.app/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Consensus+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Consensus+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://elicit.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://elicit.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Elicit+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Elicit+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.semanticscholar.org/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.semanticscholar.org/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Semantic+Scholar+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Semantic+Scholar+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://huggingface.co/learn",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://huggingface.co/learn",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://huggingface.co/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://huggingface.co/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Hugging+Face+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Hugging+Face+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://ollama.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://ollama.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Ollama+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Ollama+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://openrouter.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://openrouter.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=OpenRouter+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=OpenRouter+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://bubble.io/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://bubble.io/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Bubble+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Bubble+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://flutterflow.io/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://flutterflow.io/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=FlutterFlow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=FlutterFlow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://replit.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://replit.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Replit+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Replit+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://github.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://github.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=GitHub+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=GitHub+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.framer.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.framer.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Framer+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Framer+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://webflow.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://webflow.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Webflow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Webflow+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://wordpress.org/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://wordpress.org/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=WordPress+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=WordPress+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://ada.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://ada.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Ada+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Ada+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=OpenAI+Health+information+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=OpenAI+Health+information+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://planner5d.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://planner5d.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Planner+5D+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Planner+5D+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.autodesk.com/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.autodesk.com/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Autodesk+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Autodesk+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.google.com/travel/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://www.google.com/travel/unsupported?ucpp=Ch5odHRwczovL3d3dy5nb29nbGUuY29tL3RyYXZlbC8",
+      "message": "Redirection détectée",
+      "auto_updated": true,
+      "safe_update": true
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+Travel+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+Travel+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.tripadvisor.com/",
+      "status": "broken",
+      "http_code": 403,
+      "final_url": "https://www.tripadvisor.com/",
+      "message": "HTTP 403",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Tripadvisor+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Tripadvisor+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://inworld.ai/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://inworld.ai/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Inworld+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Inworld+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.scenario.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.scenario.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Scenario+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Scenario+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=DeepLearning.AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=DeepLearning.AI+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Hugging+Face+Learn+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Hugging+Face+Learn+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://ai.google/learn/",
+      "status": "broken",
+      "http_code": 404,
+      "final_url": "https://ai.google/learn/",
+      "message": "HTTP 404",
+      "auto_updated": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+AI+Learning+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+AI+Learning+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://developers.openai.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://developers.openai.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=OpenAI+Developers+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=OpenAI+Developers+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://docs.anthropic.com/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://platform.claude.com/docs/en/home",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Anthropic+Docs+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Anthropic+Docs+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://ai.google.dev/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://ai.google/",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+AI+for+Developers+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+AI+for+Developers+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://ads.google.com/home/tools/keyword-planner/",
+      "status": "redirect",
+      "http_code": 200,
+      "final_url": "https://business.google.com/us/ad-tools/keyword-planner/",
+      "message": "Redirection détectée",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+Keyword+Planner+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+Keyword+Planner+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://search.google.com/search-console/about",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://search.google.com/search-console/about",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Google+Search+Console+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Google+Search+Console+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://pagespeed.web.dev/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://pagespeed.web.dev/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=PageSpeed+Insights+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=PageSpeed+Insights+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://gtmetrix.com/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://gtmetrix.com/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=GTmetrix+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=GTmetrix+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://schema.org/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://schema.org/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Schema.org+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Schema.org+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=OpenAI+Academy+%E2%80%93+portail+fran%C3%A7ais+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=OpenAI+Academy+%E2%80%93+portail+fran%C3%A7ais+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://learn.microsoft.com/fr-fr/ai/ai-resources/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://learn.microsoft.com/fr-fr/ai/ai-resources/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Microsoft+Learn+%E2%80%93+ressources+IA+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Microsoft+Learn+%E2%80%93+ressources+IA+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://learn.microsoft.com/fr-fr/training/paths/explore-microsoft-365-copilot-business-chat/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://learn.microsoft.com/fr-fr/training/paths/explore-microsoft-365-copilot-business-chat/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Microsoft+Learn+%E2%80%93+bases+de+l%27IA+g%C3%A9n%C3%A9rative+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Microsoft+Learn+%E2%80%93+bases+de+l%27IA+g%C3%A9n%C3%A9rative+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://learn.microsoft.com/fr-fr/training/paths/ai-success-build-ai-agents/",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://learn.microsoft.com/fr-fr/training/paths/ai-success-build-ai-agents/",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Microsoft+Learn+%E2%80%93+cr%C3%A9er+des+agents+IA+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=Microsoft+Learn+%E2%80%93+cr%C3%A9er+des+agents+IA+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://academy.openai.com/public/courses",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://academy.openai.com/public/courses",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=OpenAI+Academy+%E2%80%93+catalogue+des+cours+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://www.youtube.com/results?search_query=OpenAI+Academy+%E2%80%93+catalogue+des+cours+tutoriel+formation+prise+en+main+fran%C3%A7ais",
+      "message": "Lien accessible",
+      "auto_updated": false,
+      "safe_update": false
+    }
+  ]
+}
