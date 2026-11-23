@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-22T20:40:34.861965+00:00",
+  "checked_at": "2026-11-23T16:58:39.919862+00:00",
   "frequency": "weekly",
   "total": 287,
   "counts": {
-    "ok": 250,
+    "ok": 251,
     "redirect": 15,
     "broken": 21,
-    "unknown": 1
+    "unknown": 0
   },
   "auto_updates": 0,
   "results": [
@@ -430,7 +430,7 @@
       "url": "https://console.mistral.ai/",
       "status": "redirect",
       "http_code": 200,
-      "final_url": "https://v2.auth.mistral.ai/login?flow=d9c1d106-206d-462c-80b1-2c4bdb59cb32&return_to=https%3A%2F%2Fconsole.mistral.ai%2F",
+      "final_url": "https://v2.auth.mistral.ai/login?flow=e067eb22-d78b-496f-8073-75a755195891&return_to=https%3A%2F%2Fconsole.mistral.ai%2F",
       "message": "Redirection détectée",
       "auto_updated": false,
       "safe_update": false
@@ -1521,10 +1521,10 @@
     },
     {
       "url": "https://prompthero.com/",
-      "status": "unknown",
-      "http_code": null,
-      "final_url": null,
-      "message": "HTTPSConnectionPool(host='prompthero.com', port=443): Read timed out. (read timeout=18)",
+      "status": "ok",
+      "http_code": 200,
+      "final_url": "https://prompthero.com/",
+      "message": "Lien accessible",
       "auto_updated": false,
       "safe_update": false
     },
